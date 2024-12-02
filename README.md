@@ -1,1 +1,5 @@
 # exercicio-git
+
+O Catalisa consiste na contratação, desde o 1º dia de formação, para aprender as tecnologias mais avançadas do mercado e atuar em projetos reais.
+
+Serão 10 meses de formação sendo 7 meses de curso imersivo voltado para desenvolvimento back-end. O curso é dividido em módulos, começando pelo básico de lógica de programação e indo até o desenvolvimento avançado de API Restful com utilização de testes unitários e integrados, rotina de autenticação Basic Auth, boas práticas de versionamento com git workflow e com interação com banco de dados, entre outros temas relevantes para a Zup. Na última semana do curso, as pessoas participantes serão separadas em equipes para desenvolverem uma ideia própria entregando uma API Restful completa, funcional e com valor de negócio. Após este período, você irá para o período de vivência prática em uma de nossas squads.
