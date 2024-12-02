@@ -1,0 +1,9 @@
+Olá, eu sou a Flávia! Sou desenvolvedora Web Full Stack, tenho paixão por tecnologia e 
+por transformar ideias/problemas em soluções digitais. Minha jornada no mundo Dev começou em 2023, 
+quando entrei na Trybe para fazer o curso de Desenvolvedor Web. Durante o período do curso, 
+aprendi linguagens de programação como JavaScript, TypeScript, Python, Java. Nos projetos que desenvolvi, 
+utilizei ferramentas como React, MySQL, Node, Docker. 
+
+Também sou formada em Ciências Econômicas pela Universidade Federal de Viçosa(UFV). 
+Durante o período de graduação, pude adquirir habilidades como gestão do tempo, gestão de trabalhos acadêmicos
+e comunicação, além de conhecimentos técnicos/científicos sobre economia.
